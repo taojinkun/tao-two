@@ -1,2 +1,6 @@
 taojinkun
-qiangqiangqiang b 
+<<<<<<< HEAD
+qiangqiangqiang a 
+=======
+qiangqiangqiang a 
+>>>>>>> dev
